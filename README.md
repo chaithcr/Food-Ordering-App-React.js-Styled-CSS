@@ -17,4 +17,5 @@ A **Food Ordering App** built with **React.js** and **styled CSS imports**, allo
 ## Installation
 1. Clone the repository:  
 ```bash
-git clone https://github.com/yourusername/food-ordering-app.git
+git clone https://github.com/chaithcr
+/food-ordering-app.git
